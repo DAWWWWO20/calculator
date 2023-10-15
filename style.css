@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(93, 92, 86);
+}
+.container{
+    border:1px solid black;
+    margin: 0 auto;
+    width: 590px;
+    height: 318px;
+    background: rgb(42, 41, 35);;
+    color: #fff;
+    
+}
+.input{
+    border: none;
+}
+.container input {
+    width: 453px;
+    height: 70px;
+    display: block;
+    background: black;
+    color: #fff;
+    border-radius: 20px;
+    margin-top: 6px;
+}
+.wrap{
+    display: flex;
+    width: 50px;
+    display: block;
+    height: 175px;
+   justify-content: space-between;
+    margin-right: 10px;
+ 
+}
+.wrap button{
+    width: 50px;
+    margin-top: 6px;
+    height: 70px;
+    border: none;
+    border-radius: 8px  ;
+    background: gold;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.number{
+    width: 455px;
+    
+}
+.box1 {
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: 8px;
+    margin-left: 152px;
+}
+.number button{
+    width: 130px;
+    margin-top: 6px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    background: #6D624E;
+    margin-left: 18px;
+    
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrap button{
+   
+    width: 50px;
+}
